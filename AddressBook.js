@@ -1,1 +1,4 @@
-console.log("...Welcome To Address Book Using Java Script...");
+
+//Printing a welcome note to console
+console.log("Welcome to address book system!");
+
